@@ -1,0 +1,12 @@
+speaker1/20164786.wav
+speaker1/20195566.wav
+speaker1/20199797.wav
+speaker1/20199999.wav
+speaker1/20292995.wav
+speaker1/20393333.wav
+speaker2/20195555.wav
+speaker2/20195566.wav
+speaker2/20199999.wav
+speaker2/20292995.wav
+speaker2/20393333.wav
+wang_yi_ming/yi_ming_test.wav
